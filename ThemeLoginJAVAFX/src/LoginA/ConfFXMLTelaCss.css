@@ -1,0 +1,92 @@
+/*
+Autor: Paulo H A Moreira...
+github.com/pouleth0
+Obs: Manter divulgar. (sem restrições-manter gratificações do Developer: não e crime;
+Omitir créditos para o autor original, sé torna plagio, é vergonhoso...=)
+
+    Created on : Jul 31, 2017, 9:32:04 AM
+    Author     : kn0w
+*/
+.root{
+    -fx-background-radius: 8px;
+}
+.button {
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(rgba(255, 255, 255, 0.37), rgba(251, 251, 251, 0.45));
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+}
+.button:hover{
+    -fx-background-color: linear-gradient(#13c800, rgba(2, 255, 0, 0.65));
+
+}
+#font-button {
+    -fx-font: bold italic 20pt "Arial";
+    -fx-effect: dropshadow( one-pass-box , black , 8 , 0.0 , 2 , 0 );
+    -fx-background-color: linear-gradient(rgba(255, 255, 255, 0.37), rgba(251, 94, 8, 0.75));
+}
+
+.bottonminimiz{
+    -fx-background-color: linear-gradient(#fdff02, rgba(253, 255, 2, 0.65));
+    -fx-font-weight: bold;
+    -fx-background-radius: 12px;
+}
+.bottonminimiz:hover{
+    -fx-background-color: linear-gradient(#02ff00, rgba(255, 250, 4, 0.65));
+}
+.buttonclose{
+    -fx-background-color: linear-gradient(#c80800, rgba(255, 7, 0, 0.65));
+    -fx-background-radius: 12px;
+}
+.buttonclose:hover{
+    -fx-background-color: linear-gradient(#00c815, rgba(200, 5, 0, 0.65));
+}
+.cardPainel{
+    -fx-text-fill: white;
+    -fx-font-family: "Arial Narrow";
+    -fx-font-weight: bold;
+    -fx-background-color: linear-gradient(rgba(251, 251, 251, 0.86), rgba(251, 251, 251, 0.9));
+    -fx-effect: dropshadow( three-pass-box , rgba(0,0,0,0.6) , 5, 0.0 , 0 , 1 );
+    -fx-background-radius: 8px;
+}
+.topPaninel{
+    -fx-background-color: linear-gradient(rgba(108, 183, 255, 0.96), rgba(108, 183, 255, 0.95));
+    -fx-background-radius: 8px;
+}
+.fundoAll{
+    -fx-background-color: transparent;
+}
+.cursoDEFAULT{
+    -fx-cursor: DEFAULT ;
+}
+.cursoCLOSED_HAND{
+    -fx-cursor: hand;
+}
+.cursoCROSSHAIR{
+    -fx-cursor:crosshair
+}
+.cursoWAIT{
+    -fx-cursor: wait;
+}
+.text{
+    -fx-font-size: 14px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #818181;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
+.testodecorRisco{
+    -fx-background-color: linear-gradient(rgba(204, 255, 27, 0.96), rgba(57, 255, 31, 0.95));
+    -fx-background-radius: 8px;
+}
+.testoLBLBOX{
+    -fx-font-size: 18px;
+    -webkit-font-size-adjust: 18px;
+   -fx-font-family: sans-serif;
+}
+.loadUser{
+    -fx-background-color: #fbfbfb;
+}
+.loadUser:hover{
+    -fx-background-color: #c86906;
+}
