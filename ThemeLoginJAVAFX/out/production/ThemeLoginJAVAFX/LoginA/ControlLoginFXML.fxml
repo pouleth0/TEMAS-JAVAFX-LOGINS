@@ -30,7 +30,7 @@
             <JFXTextField fx:id="userEmail" alignment="CENTER" labelFloat="true" layoutX="83.0" layoutY="157.0" maxWidth="253.0" minWidth="243.0" onAction="#userE" onInputMethodTextChanged="#login" onMouseClicked="#setLoad" prefHeight="32.0" prefWidth="253.0" promptText="User@user.com" styleClass="testoLBLBOX" />
             <JFXPasswordField fx:id="passWord" alignment="CENTER" labelFloat="true" layoutX="93.0" layoutY="212.0" maxWidth="235.0" minWidth="177.0" onAction="#userPassW" prefHeight="39.0" prefWidth="235.0" promptText="Password" styleClass="testoLBLBOX" />
             <AnchorPane fx:id="achoPane" layoutX="318.0" layoutY="141.0" prefHeight="48.0" prefWidth="67.0" />
-            <AnchorPane fx:id="anchoButLogar" layoutX="108.0" layoutY="267.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="75.0" prefWidth="204.0">
+            <AnchorPane fx:id="anchoButLogar" layoutX="108.0" layoutY="253.0" nodeOrientation="LEFT_TO_RIGHT" prefHeight="60.0" prefWidth="204.0">
                <cursor>
                   <Cursor fx:constant="CLOSED_HAND" />
                </cursor>
