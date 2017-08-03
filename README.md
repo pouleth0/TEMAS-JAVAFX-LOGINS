@@ -1,37 +1,36 @@
 ## Welcome to GitHub Pages
+## Bem vindo
+## Modelos Themes. JAVAFX
 
-You can use the [editor on GitHub](https://github.com/pouleth0/TEMAS-JAVAFX-LOGINS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [local dos arquivos] [pag.develop](https://freedeveloper.com.br) developer .... files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+diretório dos projetos. [direto para este projeto ](https://freedeveloper.com.br/projects/Themes-LoginX) e colaborativo, use mas... mantenha os Developers colaborativos...e suas descrições...
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Os Modelos de Logins, são Representados por Ordem Alfabética, único meio de verificar seu Leauty e por png. descritos de acordo com o loginX. segue loginX.png, para um bom entendimento, não importa letra maiúscula ou minuscula sobre a 'L':or'l'
+
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Themes JavaFX - free
+## Ordenados por módulos EXPL: LoginA, LoginB ... Segue o Alfabeto
+### SRC - contem os Espécimens LoginX... segue-se 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+- LoginA - ok
+- LoginB - AN
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pouleth0/TEMAS-JAVAFX-LOGINS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Todos os Themas podem ser encontrados neste Local. [repository settings](https://freedeveloper.com.br/ThemasJavaFX).
 
-### Support or Contact
+### Support or Contact freelance
+### Suporte para freelance
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://freedeveloper.com.br) or [contact support](https://github.com/pouleth0/) and we’ll help you sort it out freelance.
+Having trouble with Pages? Check out our [documentation](https://freedeveloper.com.br) ou [contact support](https://github.com/pouleth0/) para melhor ter um suporte, freelance.
