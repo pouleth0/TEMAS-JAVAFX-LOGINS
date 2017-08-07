@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="562.0" prefWidth="921.0" styleClass="rootPainel" stylesheets="@ConfFXMLTela.css" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="LoginB.ControlLoginBFXML">
+   <children>
+      <ImageView fitHeight="361.0" fitWidth="262.0" layoutX="595.0" layoutY="21.0" pickOnBounds="true">
+         <image>
+            <Image url="@LoginB-LB.png" />
+         </image>
+      </ImageView>
+      <Pane layoutX="146.0" layoutY="55.0" prefHeight="200.0" prefWidth="200.0" styleClass="ipad-grey" />
+      <AnchorPane fx:id="painelUm1" layoutX="316.0" layoutY="366.0" prefHeight="111.0" prefWidth="433.0" rotate="-34.2" styleClass="painel2">
+         <children>
+            <JFXPasswordField alignment="CENTER" focusColor="BLACK" labelFloat="true" layoutX="198.0" layoutY="27.0" maxWidth="189.0" minWidth="189.0" prefHeight="46.0" prefWidth="189.0" promptText="Password" styleClass="testoLBLBOX" unFocusColor="BLACK" />
+         </children></AnchorPane>
+      <ImageView fitHeight="355.0" fitWidth="285.0" layoutX="69.0" layoutY="207.0" pickOnBounds="true">
+         <image>
+            <Image url="@LoginB-LA.png" />
+         </image>
+      </ImageView>
+      <AnchorPane fx:id="painelUm" layoutX="454.0" layoutY="84.0" prefHeight="102.0" prefWidth="199.0" rotate="-37.9" styleClass="painel1" />
+      <AnchorPane fx:id="painelUm2" layoutX="269.0" layoutY="215.0" prefHeight="102.0" prefWidth="230.0" rotate="142.2" styleClass="painel1">
+         <children>
+            <JFXTextField alignment="CENTER" focusColor="#030303" labelFloat="true" layoutX="-101.0" layoutY="23.0" maxWidth="232.0" minWidth="200.0" prefHeight="48.0" prefWidth="232.0" promptText="User@Login" rotate="-179.0" styleClass="testoLBLBOX" unFocusColor="BLACK" />
+         </children></AnchorPane>
+      <AnchorPane layoutX="597.0" layoutY="80.0" prefHeight="52.0" prefWidth="114.0" rotate="33.0" />
+      <JFXButton layoutX="67.0" layoutY="266.0" prefHeight="35.0" prefWidth="79.0" styleClass="bevel-grey" text="LOGAR" />
+      <JFXButton layoutX="65.0" layoutY="311.0" prefHeight="35.0" prefWidth="79.0" styleClass="bevel-grey" text="LIMPAR" />
+      <JFXButton layoutX="64.0" layoutY="358.0" onAction="#sair" prefHeight="35.0" prefWidth="79.0" styleClass="bevel-grey" text="SAIR" />
+      <ImageView fitHeight="150.0" fitWidth="200.0" layoutX="172.0" layoutY="60.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@login.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
